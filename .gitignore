@@ -1,0 +1,7 @@
+NQ_Trades_Data_Conv/
+NQ_Trades_Data/
+*.parquet
+*.csv
+*.dbn.zst
+__pycache__/
+.DS_Store
